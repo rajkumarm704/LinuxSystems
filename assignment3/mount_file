@@ -1,0 +1,7 @@
+Mounted
+/
+/dev
+/dev/shm
+/var/run
+/var/lock
+/lib/init/rw

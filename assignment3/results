@@ -1,0 +1,2 @@
+fs[0]=`cut -d ' ' -f1 mount_info`
+mount_arr[0]=`cut -d ' ' -f6 mount_info`

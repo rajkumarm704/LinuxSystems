@@ -1,0 +1,7 @@
+Filesystem Size Used Avail Use% Mounted on
+/dev/sda1 29G 7.7G 20G 28% /
+none 498M 264K 497M 1% /dev
+none 502M 264K 501M 1% /dev/shm
+none 502M 92K 502M 1% /var/run
+none 502M 0 502M 0% /var/lock
+none 502M 0 502M 0% /lib/init/rw
